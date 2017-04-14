@@ -1,7 +1,7 @@
 # Escape-The-Maze
 Finds the shortest path in a maze, using Dijkstra's algorithm
 
-Description
+## Description
 
 The hero is trapped in a maze, there's mud up to his knees, and there are monsters in the maze! He must find a path so that he can safely escape!
 
