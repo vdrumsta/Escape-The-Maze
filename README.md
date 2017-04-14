@@ -5,7 +5,7 @@ Description
 
 The hero is trapped in a maze, there's mud up to his knees, and there are monsters in the maze! He must find a path so that he can safely escape!
 
-Input:
+## Input:
 
 Input is an ASCII-map of a maze. The map uses the following characters:
 
@@ -20,13 +20,13 @@ Input is an ASCII-map of a maze. The map uses the following characters:
 'G' this is where the hero wishes to go, the goal. He can move here vertically or horizontally, costing 1HP.
 
 
-Output:
+## Output:
 
 The same as the input, but the route, which costs the least amount of HP is marked with '*', as well as the cost of the route.
 
-Example
+### Example
 
-input:
+#### input:
 ```
 ######
 #S  m#
@@ -35,7 +35,7 @@ input:
 ######
 ```
 
-output:
+#### output:
 ```
 ######
 #S***#
