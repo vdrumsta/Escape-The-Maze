@@ -27,7 +27,7 @@ The same as the input, but the route, which costs the least amount of HP is mark
 Example
 
 input:
-
+``
 \######
 
 \#S  m#
@@ -37,6 +37,8 @@ input:
 \# m G#
 
 \######
+
+``
 
 output:
 
