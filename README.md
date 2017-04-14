@@ -50,3 +50,5 @@ The same as the input, but the route, which costs the least amount of HP is mark
 ######
 The path cost: 15 HP
 ```
+
+Original idea proposal: https://www.reddit.com/r/dailyprogrammer/comments/5vwwzg/20170224_challenge_303_hard_escaping_a_dangerous/
